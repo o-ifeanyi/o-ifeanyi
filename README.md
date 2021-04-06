@@ -14,10 +14,8 @@
 <!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
 </p>
 
-- 👨🏽‍💻 Currently working as an optometrist as i await my break into tech 🤞🏽.
 - 🤝 Open for collaborations in app developement with flutter.
-- 🔭 I’m currently working on personal projects here and there ...
-- 🌱 I’m currently learning Bloc as a state management option
+- 🔭 I’m currently working on projects here and there ...
 - 👯 I’m looking to collaborate on flutter or dart projects
 - 💬 Ask me about flutter/dart
 - ⚡ Fun fact: 🤷🏽‍♂️
