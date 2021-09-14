@@ -17,15 +17,26 @@
 - 🤝 Open for collaborations in app developement with flutter.
 - 🔭 I’m currently working on projects here and there ...
 - 👯 I’m looking to collaborate on flutter or dart projects
+- 🖊 Ocassionally writting on hashnode (<a href="https://o-ifeanyi.hashnode.dev/">Blog</a>)
 - 💬 Ask me about flutter/dart
 - ⚡ Fun fact: 🤷🏽‍♂️
 
 ---
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
+📖 <b>Recent Blog Posts</b>
+
+- 🔗 <a href="https://o-ifeanyi.hashnode.dev/deep-linking-in-flutter-part-1">Deep Linking In Flutter</a>
+- ☎ <a href="https://o-ifeanyi.hashnode.dev/using-methodchannel-in-flutter">Using MethodChannel in Flutter</a>
+- 🔄 <a href="https://o-ifeanyi.hashnode.dev/application-life-cycles-in-flutter">Application Life Cycles In Flutter</a> 
+- 💉 <a href="https://o-ifeanyi.hashnode.dev/dependency-injection-in-flutter-using-getit">Dependency Injection In Flutter Using Get_It</a>  
+- 🧫 <a href="https://o-ifeanyi.hashnode.dev/writing-integration-test-in-flutter">Writing Integration Test In Flutter</a>  
+- 🔬 <a href="https://o-ifeanyi.hashnode.dev/writing-widget-test-in-flutter">Writing Widget Test In Flutter</a>  
+- 🧪 <a href="https://o-ifeanyi.hashnode.dev/writing-unit-test-in-flutter-with-mockito">Writing Unit Test In Flutter With Mockito</a>
+
+---
+
+📈 <b>My Github Stats</b>
+
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=o-ifeanyi&show_icons=true&theme=tokyonight&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api?username=o-ifeanyi&show_icons=true&theme=tokyonight&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=o-ifeanyi&hide=css,java,html&theme=tokyonight">
 </p>
-</details>
