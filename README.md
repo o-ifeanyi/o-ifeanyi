@@ -8,6 +8,9 @@
 <a href="mailto:onuifeanyi95@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://o-ifeanyi.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ifeanyi-onuoha-8402021b1/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -22,6 +25,21 @@
 - ⚡ Fun fact: 🤷🏽‍♂️
 
 ---
+
+🛠 <b>Tech Stack</b>
+
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)&nbsp;
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)&nbsp;
+
+---
+
 📖 <b>Recent Blog Posts</b>
 
 - 🔗 <a href="https://o-ifeanyi.hashnode.dev/deep-linking-in-flutter-part-1">Deep Linking In Flutter</a>
