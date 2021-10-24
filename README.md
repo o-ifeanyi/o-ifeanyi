@@ -42,6 +42,7 @@
 
 📖 <b>Recent Blog Posts</b>
 
+- ✔ <a href="https://o-ifeanyi.hashnode.dev/dart-null-safety">Dart Null Safety</a>
 - 🔗 <a href="https://o-ifeanyi.hashnode.dev/deep-linking-in-flutter-part-1">Deep Linking In Flutter</a>
 - ☎ <a href="https://o-ifeanyi.hashnode.dev/using-methodchannel-in-flutter">Using MethodChannel in Flutter</a>
 - 🔄 <a href="https://o-ifeanyi.hashnode.dev/application-life-cycles-in-flutter">Application Life Cycles In Flutter</a> 
